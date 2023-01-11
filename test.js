@@ -298,3 +298,4 @@ console.log(array5.includes(10))
 
 console.log(array5.indexOf(16))
 
+
